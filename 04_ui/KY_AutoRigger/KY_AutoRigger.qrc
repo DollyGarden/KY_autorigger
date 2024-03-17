@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="images">
+    <file>img/KY_AR_image.jpg</file>
+    <file>img/shelf_AR.jpg</file>
+  </qresource>
+</RCC>
